@@ -1,6 +1,8 @@
 ## Example Android (Java) Project
 
-![Screen](screenshot/1.gif)
+<div align="center">
+    <img src="screenshot/1.gif" alt="Screen" style="width:200px;"/>
+</div>
 
 <h1 align="center">
     💻 Technologies
