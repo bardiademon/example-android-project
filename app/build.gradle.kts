@@ -70,6 +70,20 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
+    // https://mvnrepository.com/artifact/com.google.code.gson/gson
+    implementation("com.google.code.gson:gson:2.10.1")
+    // https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.bardiademon:Jjson:2.1.0")
+
+    compileOnly("org.projectlombok:lombok:1.18.30")
+    annotationProcessor("org.projectlombok:lombok:1.18.30")
+
+    implementation("de.hdodenhof:circleimageview:3.1.0")
+
+    // https://mvnrepository.com/artifact/com.squareup.picasso/picasso
+    implementation("com.github.bumptech.glide:glide:4.16.0")
 
 }

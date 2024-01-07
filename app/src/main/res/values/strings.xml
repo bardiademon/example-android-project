@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ExampleProject</string>
+    <string name="menu">MENU</string>
+    <string name="search">SEARCH</string>
+    <string name="bardia_namjoo">Bardia Namjoo</string>
+    <string name="bardiademon_gmail_com">bardiademon@gmail.com</string>
+    <string name="_12">12</string>
 </resources>
