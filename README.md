@@ -1,5 +1,7 @@
 ## Example Android (Java) Project
 
+![Screen](screenshot/1.gif)
+
 <h1 align="center">
     💻 Technologies
 </h1>
